@@ -1,0 +1,6 @@
+ Partiendo de  1 debe tomar el siguiene camino 
+Debe ir por el vertice  4 con un peso de  5
+Partiendo de  4 debe tomar el siguiene camino 
+Debe ir por el vertice  5 con un peso de  2
+Partiendo de  5 debe tomar el siguiene camino 
+Debe ir por el vertice  3 con un peso de  6

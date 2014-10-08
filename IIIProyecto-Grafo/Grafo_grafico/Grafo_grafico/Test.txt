@@ -1,0 +1,15 @@
+ El vertice 1 tiene los siguiente arcos
+La direccion es 2 con un peso de  10
+La direccion es 4 con un peso de  5
+El vertice 2 tiene los siguiente arcos
+La direccion es 3 con un peso de  1
+La direccion es 4 con un peso de  2
+El vertice 3 tiene los siguiente arcos
+La direccion es 5 con un peso de  4
+El vertice 4 tiene los siguiente arcos
+La direccion es 2 con un peso de  3
+La direccion es 3 con un peso de  9
+La direccion es 5 con un peso de  2
+El vertice 5 tiene los siguiente arcos
+La direccion es 1 con un peso de  7
+La direccion es 3 con un peso de  6

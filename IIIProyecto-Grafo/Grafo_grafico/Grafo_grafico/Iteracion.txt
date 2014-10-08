@@ -1,0 +1,5 @@
+ 
+Partida    1    2    3    4    5
+Tomar 1     x  (10)    x  (5)    x
+Tomar 4     x  (8)  (14)    x  (7)
+Tomar 5   (0)    x  (13)    x    x
